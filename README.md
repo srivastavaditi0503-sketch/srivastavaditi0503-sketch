@@ -35,6 +35,6 @@ To become a Software QA Engineer and continuously improve my testing and automat
 - Automation Testing Basics
 
 ## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME
+- LinkedIn: https://www.linkedin.com/in/aditi-srivastava-a525b3391?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ⭐ Thanks for visiting my profile!
