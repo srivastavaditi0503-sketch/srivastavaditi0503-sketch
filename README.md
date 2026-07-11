@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**srivastavaditi0503-sketch/srivastavaditi0503-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there! I'm Aditi Srivastava
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+🎓 B.Tech CSE (AI & ML) Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 QA Intern at Redgrape Technologies Pvt. Ltd.
+
+🌱 Currently Learning:
+- Manual Testing
+- API Testing (Postman)
+- Git & GitHub
+- STLC & SDLC
+- Test Case Design
+- Bug Reporting
+
+🎯 Goal:
+To become a Software QA Engineer and continuously improve my testing and automation skills.
+
+## 🛠 Tech Stack
+- Java
+- HTML
+- CSS
+- JavaScript
+- MySQL
+- Git
+- GitHub
+- Postman
+- Playwright (Learning)
+
+## 📚 Currently Working On
+- QA Testing Projects
+- API Testing Practice
+- GitHub Portfolio
+- Automation Testing Basics
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME
+
+⭐ Thanks for visiting my profile!
