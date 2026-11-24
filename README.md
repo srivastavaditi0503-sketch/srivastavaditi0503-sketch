@@ -41,12 +41,22 @@ To become a Software QA Engineer and continuously improve my testing and automat
 
 🚀 My Projects
 
-Project| Description| Links
-🌿 FloraScan AI| AI-powered Plant Disease Detection and Prevention System| "Repository" (https://github.com/srivastavaditi0503-sketch/FloraScan-AI)
+🌿 FloraScan AI
+
+AI-Powered Plant Disease Detection and Prevention System
+
+- Detects plant diseases using Deep Learning
+- CNN-based image classification
+- Provides disease prevention recommendations
+- AI-powered chatbot integration
+
+🔗 "View Repository" (https://github.com/srivastavaditi0503-sketch/FloraScan-AI)
+
+---
 
 🎯 Currently Working On
 
 - Plant Disease Detection using Deep Learning
-- CNN-based image classification
-- Plant disease prevention recommendations
-- AI-powered chatbot integration
+- CNN-based Image Classification
+- Plant Disease Prevention Recommendations
+- AI-powered Chatbot Integration
