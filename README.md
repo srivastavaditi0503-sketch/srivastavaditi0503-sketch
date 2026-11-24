@@ -38,3 +38,15 @@ To become a Software QA Engineer and continuously improve my testing and automat
 - LinkedIn: https://www.linkedin.com/in/aditi-srivastava-a525b3391?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ⭐ Thanks for visiting my profile!
+
+🚀 My Projects
+
+Project| Description| Links
+🌿 FloraScan AI| AI-powered Plant Disease Detection and Prevention System| "Repository" (https://github.com/srivastavaditi0503-sketch/FloraScan-AI)
+
+🎯 Currently Working On
+
+- Plant Disease Detection using Deep Learning
+- CNN-based image classification
+- Plant disease prevention recommendations
+- AI-powered chatbot integration
